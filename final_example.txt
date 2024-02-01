@@ -1,0 +1,5 @@
+Robot porfi move 2 blocks ahead
+Robot porfi turn 90 degrees
+Robot porfi move 3 blocks ahead and turn 180 degrees
+Robot porfi move 4 blocks ahead, and then turn 270 degrees, then move 5 blocks ahead and turn 360 degrees
+Robot moves 2 blocks
