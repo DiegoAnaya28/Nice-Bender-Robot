@@ -37,7 +37,6 @@ DIRECTION → ahead
 Lex tokens definitions 
 
 ```
-
 Terminal        Regular Expression
 ROBOT           "Robot"
 MAGIC_WORD      "porfi"
@@ -49,6 +48,18 @@ NO_BLOCKS       [0-9]+
 BLOCKS          "block"|"blocks"
 CONJUNCTION     "and"|"and then"|"then"
 DIRECTION       "ahead"
-
 ```
 
+List of sample inputs to be detected or rejected:
+
+```
+Robot porfi move 2 blocks ahead // detetcted
+Robot porfi turn 90 degrees // detetcted
+Robot porfi move 3 blocks ahead and turn 180 degrees // detetcted
+Robot porfi move 4 blocks ahead, and then turn 270 degrees, then move 5 blocks ahead and turn 360 degrees // detetcted
+Robot moves 2 blocks// rejected 
+```
+
+Link to video recording showing program execution and testing:
+
+Link to the presentation: 
