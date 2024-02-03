@@ -62,4 +62,4 @@ Robot moves 2 blocks// rejected
 
 Link to video recording showing program execution and testing:
 
-Link to the presentation: 
+Link to the presentation: https://www.canva.com/design/DAF7mXlaYrE/I5ac5cPLySMR1KioRvUm1g/edit?utm_content=DAF7mXlaYrE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
