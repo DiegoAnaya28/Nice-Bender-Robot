@@ -60,6 +60,6 @@ Robot porfi move 4 blocks ahead, and then turn 270 degrees, then move 5 blocks a
 Robot moves 2 blocks// rejected 
 ```
 
-Link to video recording showing program execution and testing:
+Link to video recording showing program execution and testing: https://drive.google.com/file/d/1idqkXdaHjV4vDSDZDIYu2sWzK9VIIcJy/view?usp=sharing
 
-Link to the presentation: https://www.canva.com/design/DAF7mXlaYrE/I5ac5cPLySMR1KioRvUm1g/edit?utm_content=DAF7mXlaYrE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Link to the presentation: https://drive.google.com/file/d/1Ny85FTDKehVekiGq8tEXgBLSq9RZ1e9E/view?usp=sharing
